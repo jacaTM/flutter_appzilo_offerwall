@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appzilo.sdk:offerwall:1.3.11@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91b5854881c4362ef2cfa91c5f1cc080/jetified-offerwall-1.3.11/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
