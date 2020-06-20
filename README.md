@@ -19,10 +19,11 @@ AppziloOfferwall().show();
 You may face some errors during build phase. 
 Here's how to solve it:
 If it shows the following error:
-
-    attribute android:foregroundServiceType not found
+```
+attribute android:foregroundServiceType not found
+```
 You'll have to set the compileSdkVersion to 29.
-Go to *android/app/build.gradle* into your app and set *compileSdkVersion 29*
+Go to *android/app/build.gradle* into your app and set *compileSdkVersion 29* also set *minSdkVersion 17*
 
 There might be an error related to
 ```
